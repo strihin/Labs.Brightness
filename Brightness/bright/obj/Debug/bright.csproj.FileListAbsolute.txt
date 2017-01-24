@@ -1,0 +1,30 @@
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\bin\Debug\bright.exe.config
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\bin\Debug\bright.exe
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\bin\Debug\bright.pdb
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.csprojResolveAssemblyReference.cache
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.Form1.resources
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.Properties.Resources.resources
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.csproj.GenerateResource.Cache
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.exe
+C:\Users\TastyCoockie\Desktop\лаба яркость\bright\bright\obj\Debug\bright.pdb
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\bin\Debug\bright.exe.config
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.exe
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.pdb
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\bin\Debug\bright.exe
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\bin\Debug\bright.pdb
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.csprojResolveAssemblyReference.cache
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.Form1.resources
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.Properties.Resources.resources
+D:\misha\d\Univer\8 семестр\Графика\bright\bright\obj\Debug\bright.csproj.GenerateResource.Cache
+D:\misha\d\Univer\8 семестр\Графика\trash\bright\bright\bin\Debug\bright.exe.config
+D:\misha\d\Univer\8 семестр\Графика\trash\bright\bright\obj\Debug\bright.exe
+D:\misha\d\Univer\8 семестр\Графика\trash\bright\bright\obj\Debug\bright.pdb
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\bin\Debug\bright.exe.config
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.exe
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.pdb
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\bin\Debug\bright.exe
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\bin\Debug\bright.pdb
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.csprojResolveAssemblyReference.cache
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.Form1.resources
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.Properties.Resources.resources
+C:\Users\Александер\Desktop\Brightness\Brightness\bright\obj\Debug\bright.csproj.GenerateResource.Cache
